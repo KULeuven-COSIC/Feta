@@ -1,0 +1,2 @@
+The chaining of compression functions isn't quite as it should be, i.e. it's feeding the output/state as first half to of the next block and feeding the next block as second half and state/input.
+It should still be good enough to get a mostly accurate idea of the efficiency of our scheme.

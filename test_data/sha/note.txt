@@ -1,0 +1,4 @@
+I didn't figure out the proper format and bit order for the inputs and outputs
+so I didn't make it a full SHA256 evaluation with proper padding and initial size,
+but rather just evaluated the circuit in all zeroes and used it as test vector.
+This might slightly impact the simplified circuit but shouldn't be too much.

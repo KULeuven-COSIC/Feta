@@ -1,0 +1,6 @@
+# More preprocessing than you need for t < n/4, but a rough upper bound for our config with t < n/3
+N_PREPROCESSING=32000
+N_PREPROCESSING_LOG=35
+CIRCUIT=fixed_circuit.txt
+PRIV_INPUT=private_input
+BATCH_SIZE=150
